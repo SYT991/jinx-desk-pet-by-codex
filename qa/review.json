@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8176,
+          "bbox": [
+            56,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 201
+        },
+        {
+          "index": 1,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8187,
+          "bbox": [
+            55,
+            6,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 225
+        },
+        {
+          "index": 2,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8220,
+          "bbox": [
+            55,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 226
+        },
+        {
+          "index": 3,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8303,
+          "bbox": [
+            55,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 230
+        },
+        {
+          "index": 4,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8191,
+          "bbox": [
+            56,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 206
+        },
+        {
+          "index": 5,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8203,
+          "bbox": [
+            55,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 215
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9582,
+          "bbox": [
+            22,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 344
+        },
+        {
+          "index": 1,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8557,
+          "bbox": [
+            37,
+            10,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 291
+        },
+        {
+          "index": 2,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7897,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 216
+        },
+        {
+          "index": 3,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8837,
+          "bbox": [
+            36,
+            6,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 302
+        },
+        {
+          "index": 4,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9298,
+          "bbox": [
+            21,
+            7,
+            170,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 322
+        },
+        {
+          "index": 5,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8568,
+          "bbox": [
+            42,
+            7,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 320
+        },
+        {
+          "index": 6,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8350,
+          "bbox": [
+            37,
+            7,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 280
+        },
+        {
+          "index": 7,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9162,
+          "bbox": [
+            32,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 317
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9019,
+          "bbox": [
+            24,
+            5,
+            168,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 375
+        },
+        {
+          "index": 1,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8039,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 319
+        },
+        {
+          "index": 2,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8015,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 338
+        },
+        {
+          "index": 3,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8910,
+          "bbox": [
+            19,
+            6,
+            173,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 353
+        },
+        {
+          "index": 4,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7988,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 364
+        },
+        {
+          "index": 5,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8601,
+          "bbox": [
+            24,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 353
+        },
+        {
+          "index": 6,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8350,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 349
+        },
+        {
+          "index": 7,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8818,
+          "bbox": [
+            24,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 395
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8537,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 195
+        },
+        {
+          "index": 1,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9006,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 195
+        },
+        {
+          "index": 2,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8907,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        },
+        {
+          "index": 3,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8529,
+          "bbox": [
+            51,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 191
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7699,
+          "bbox": [
+            37,
+            68,
+            154,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 154
+        },
+        {
+          "index": 1,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7455,
+          "bbox": [
+            39,
+            30,
+            152,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        },
+        {
+          "index": 2,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7606,
+          "bbox": [
+            28,
+            5,
+            163,
+            156
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 194
+        },
+        {
+          "index": 3,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8059,
+          "bbox": [
+            30,
+            41,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 198
+        },
+        {
+          "index": 4,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8168,
+          "bbox": [
+            39,
+            35,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 200
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8428,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        },
+        {
+          "index": 1,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7629,
+          "bbox": [
+            60,
+            14,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 213
+        },
+        {
+          "index": 2,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7175,
+          "bbox": [
+            58,
+            21,
+            133,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 180
+        },
+        {
+          "index": 3,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8002,
+          "bbox": [
+            55,
+            12,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 201
+        },
+        {
+          "index": 4,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7722,
+          "bbox": [
+            60,
+            13,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 196
+        },
+        {
+          "index": 5,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7361,
+          "bbox": [
+            60,
+            17,
+            131,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        },
+        {
+          "index": 6,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8181,
+          "bbox": [
+            58,
+            7,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        },
+        {
+          "index": 7,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8370,
+          "bbox": [
+            59,
+            5,
+            132,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8741,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 173
+        },
+        {
+          "index": 1,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8564,
+          "bbox": [
+            54,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 197
+        },
+        {
+          "index": 2,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8993,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 228
+        },
+        {
+          "index": 3,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8805,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 147
+        },
+        {
+          "index": 4,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8946,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 178
+        },
+        {
+          "index": 5,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8699,
+          "bbox": [
+            55,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 173
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9327,
+          "bbox": [
+            49,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 195
+        },
+        {
+          "index": 1,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8500,
+          "bbox": [
+            54,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 173
+        },
+        {
+          "index": 2,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8595,
+          "bbox": [
+            53,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 164
+        },
+        {
+          "index": 3,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8349,
+          "bbox": [
+            52,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 156
+        },
+        {
+          "index": 4,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8674,
+          "bbox": [
+            51,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 150
+        },
+        {
+          "index": 5,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8933,
+          "bbox": [
+            52,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 162
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8656,
+          "bbox": [
+            53,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        },
+        {
+          "index": 1,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8013,
+          "bbox": [
+            53,
+            21,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 200
+        },
+        {
+          "index": 2,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8135,
+          "bbox": [
+            53,
+            22,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 3,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 7987,
+          "bbox": [
+            53,
+            8,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 196
+        },
+        {
+          "index": 4,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8459,
+          "bbox": [
+            55,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 195
+        },
+        {
+          "index": 5,
+          "file": "/Users/a41611/Documents/Codex/2026-10-30/pets-plugin-work-pets-openai-curated-3/work/jinx/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8385,
+          "bbox": [
+            55,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 214
+        }
+      ]
+    }
+  ]
+}
